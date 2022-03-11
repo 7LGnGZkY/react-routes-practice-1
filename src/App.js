@@ -57,7 +57,7 @@ const appsData = [
   },
   {
     id: 2,
-    name: "Facebook",
+    name: "Diaspora",
     type: "social",
     price: 0
   }
